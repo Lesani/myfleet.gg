@@ -18,6 +18,10 @@ Before filing, a few things that help a lot:
 
 For feature requests, describe the use case ("I want to do X so that Y") rather than a specific implementation — it gives more room to find a good solution.
 
+## Requests for 3D models
+
+Issues asking for 3D model files (or links to them) will be **closed or removed without comment**. Models will not be provided, shared, or pointed to. Please do not open these issues.
+
 ## Useful links
 
 - Live site: https://myfleet.gg
